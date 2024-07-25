@@ -7,10 +7,11 @@ Projeto do bootcamp Potencial tech Ifood - Desenvolvimento de Jogos, patrocidado
 | :sparkles: Nome        | **Yu-Gi-Oh - Jo-Ken-Pô**
 | :label: Tecnologias | html, css, js
 
+![Banner-yu-gi-oh](https://github.com/user-attachments/assets/c16c6b2a-14fb-41da-8bda-73d0e7942902)
+
 <h2 id="detalhes-do-projeto"> 📃 Detalhes do projeto </h2>
 
-Jogo de acerta o Rapth, desenvolvido utilizando tecnologias web, como html, css e javascript.
-yu-gi-oh-jo-ken-po
+Jogo de Jo-Ken-Pô com tema de Yu-Gi-Oh, desenvolvido utilizando tecnologias web, como html, css e javascript.
 
 ![Badge](https://img.shields.io/github/last-commit/Epiled/yu-gi-oh-jo-ken-po?style=for-the-badge)
 ![Badge](https://img.shields.io/github/languages/code-size/Epiled/yu-gi-oh-jo-ken-po?style=for-the-badge)
@@ -27,11 +28,16 @@ yu-gi-oh-jo-ken-po
 
 <!--ts-->
    * [Detalhes do projeto](#detalhes-do-projeto)
+   * [Demonstração](#demonstracao)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
    * [Tecnologias](#tecnologias)
    * [Autor](#autor)
 <!--te-->
+
+<h2 id="demonstracao"> 👀 Demonstração </h2>
+
+https://github.com/user-attachments/assets/ec3d4988-81bb-4d5b-b5c6-33143ff01d53
 
 <h2 id="instalacao"> ⚙ Instalação </h2>
 
